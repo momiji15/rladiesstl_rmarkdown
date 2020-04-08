@@ -2,7 +2,7 @@
 title: "Make Your Mark on the Web!"
 subtitle: "Creating Personal Websites with R Markdown"
 author: "Dorris Scott"
-date: "04-02-2020"
+date: "04-09-2020"
 output:
   xaringan::moon_reader:
     css: [default, rladies, rladies-fonts]
