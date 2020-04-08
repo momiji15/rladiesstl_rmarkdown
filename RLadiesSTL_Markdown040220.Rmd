@@ -47,7 +47,7 @@ class: inverse, center, middle
 
 #First things first!
 
-Install the rmarkdown and blogdown packages and load them:
+In your console, install the rmarkdown and blogdown packages and load them:
 
 ```{r, chunk-one, echo = TRUE, eval = FALSE}
 install.packages("rmarkdown")
@@ -80,23 +80,13 @@ class: inverse, center, middle
 
 # Creating an R Markdown Document
 
-To keep things organized, I would suggest you create a Project.
-File -> New Project -> New Directory (or Existing Directory if you already have a folder).
+To keep things organized, please create a folder and name it rmarkdown_rladiesstl.
 
-If you create a new directory, you need to point your information where your folder is at.
-
----
-
-# Creating an R Markdown Document
-
-File -> New File -> R Markdown
-  - Click on Document.
-  
-  - Add a Title and Author.
-  
-  - Leave the Default Output as it is.
+Please create your folder in a location where you can easily find it.
 
 ---
+
+
 
 # Creating an R Markdown Document
 
@@ -192,7 +182,7 @@ Basic Steps
 ## Exercise 2
 
 
-It's time to build your personal website using a theme of your choice! Refer to [Unit 2](https://github.com/momiji15/yearntolearn/blob/master/RLadies_STL/R_Markdown_Tutorial/Unit2.md) for instructions on how to build your personal website.
+It's time to build your personal website using a theme of your choice! Refer to [Unit 2, Lessons 1 and 2](https://github.com/momiji15/yearntolearn/blob/master/RLadies_STL/R_Markdown_Tutorial/Unit2.md) for instructions on how to build your personal website.
 
 
 
@@ -224,11 +214,8 @@ Many options!
 # Deploying Your Site with Netlify
 
 ##  Exercise 3 
-- If you are finished with Exercise 2, go ahead and deploy your site! Refer back to [Unit 2](https://github.com/momiji15/yearntolearn/blob/master/R%20Markdown%20Tutorial/Unit%202.md) for instructions.
+- If you are finished with Exercise 2, go ahead and deploy your site! Refer back to [Unit 2, Lesson 3](https://github.com/momiji15/yearntolearn/blob/master/R%20Markdown%20Tutorial/Unit%202.md) for instructions.
 
-- If you are using GitHub and are making commits from the command line, make sure to check the remote and origin so you're not making commits to the wrong repo!!
-
-- If making commits via the command line is too overwhelming, then just make sure you're log in to GitHub and go to the netlify site and drag your `public\` folder to the Netlify page.
 
 
 ---
