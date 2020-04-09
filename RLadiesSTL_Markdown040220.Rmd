@@ -41,7 +41,7 @@ class: inverse, center, middle
 
 # First things first!
 
-### Go to https://github.com/momiji15/yearntolearn/RLadies_STL for materials!
+###  [**Click Here**](https://github.com/momiji15/yearntolearn/tree/master/RLadies_STL) for materials!
 
 ---
 
@@ -95,6 +95,40 @@ Please create your folder in a location where you can easily find it.
 
 
 ---
+
+
+# Knowledge Check!
+
+What would be the correct markdown to add a Header 1 to “Title”?
+
+a. `**Title**`
+
+b. `# Title`
+
+c. `* Title`
+
+d. `## Title` 
+
+
+---
+
+
+# Knowledge Check!
+
+What would be the correct markdown to add a Header 1 to “Title”?
+
+a. `**Title**`
+
+**b. `# Title` **
+
+c. `* Title`
+
+d. `## Title` 
+
+
+
+---
+
 
 # Creating an R Markdown Document
 
@@ -177,6 +211,28 @@ Basic Steps
 
 ---
 
+
+# Knowledge Check!
+
+Fill in the blanks to create a new site with the Academic theme.
+
+ `blogdown::_______(theme = "_________")`
+ 
+
+---
+
+
+# Knowledge Check!
+
+Fill in the blanks to create a new site with the Academic theme.
+
+ `blogdown::`**`new_site`**`(theme = `**`"gcushen-hugo-academic"`**`)`
+ 
+
+---
+
+
+
 # Making a Personal Website with Blogdown
 
 ## Exercise 2
@@ -208,6 +264,38 @@ Many options!
 
 - GitLab pages
 
+
+
+---
+
+# Knowledge Check!
+
+Which folder do you have to add to Netlify to deploy your site?
+
+ a. themes
+ 
+ b. static
+ 
+ c. content
+ 
+ d. public
+ 
+
+---
+
+
+# Knowledge Check!
+
+Which folder do you have to add to Netlify to deploy your site?
+
+ a. themes
+ 
+ b. static
+ 
+ c. content
+ 
+ **d. public**
+ 
 
 ---
 
